@@ -2,6 +2,14 @@
   "name": "TON",
   "description": "TON",
   "external_url": "https://freeton.org",
-  "image": "https://ton-manifest-dev.firebaseapp.com/assets/create.09f2308a21898c8d.png"
-
+  "image": "https://ton-manifest-dev.firebaseapp.com/assets/create.09f2308a21898c8d.png",
+  "attributes": [
+    {
+      "name": "TON",
+      "value": "1"
+      "Official site": "https://freeton.org"
+      "Telegram": "https://t.me/TONCRYSTAL"
+    },
+    ...
+  ]
 }

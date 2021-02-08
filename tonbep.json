@@ -1,0 +1,15 @@
+{
+  "name": "Mini Token Metadata",
+  "description": "Metadata description for the Mini Token",
+  "external_url": "https://example.com/token",
+  "image": "https://example.com/token/1.png",
+  "attributes": 
+  [
+    {
+      "name": "TON Crystal",
+      "value": "custom value",
+      "external_url": "https://freeton.org",
+      "image": "https://ton-manifest-dev.firebaseapp.com/assets/create.09f2308a21898c8d.png"
+    }
+  ]
+}
